@@ -93,8 +93,6 @@ things *like* face-to-face connection: social media is a low-stress way of
 interacting with people, looking at porn a low-stress way of satisfying sexual
 desire.
 
-<span class="figcaption_hack">We’ve been socializing less since these were in homes (image credit:
-[https://pxhere.com/en/photo/202761](https://pxhere.com/en/photo/202761))</span>
 
 #### Zooming Out
 
