@@ -1,6 +1,6 @@
 # Philosophy
 
-[/philtest.md] Analytic Philosophy As Poetry
+[Analytic Philosophy As Poetry](/philtest.md)
 
 # Culture
 
