@@ -1,6 +1,7 @@
 # Philosophy
 
 [Analytic Philosophy As Poetry](/philtest.md)
+
 [What Language Do We Speak On Social Media?](/language-social-media.md)
 
 # Culture
