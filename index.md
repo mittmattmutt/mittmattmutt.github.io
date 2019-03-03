@@ -1,6 +1,6 @@
-This is the blog of @mittmattmutt. I am an academic philosopher and writer. My academic work is here: [mipmckeever.weebly.com](mipmckeever.weebly.com). You can read a sample of my debut work of fiction, a philsophical novella called 'Coming From Nothing' (Zero Books) [here](http://bit.ly/cfnextract). You can download and read *Before The Internet*, a book about 90s book culture I wrote [here](http://bit.ly/90sbook).
+This is the blog of [twitter.com/@mittmattmutt](@mittmattmutt). I am an academic philosopher and writer. My academic work is here: [mipmckeever.weebly.com](mipmckeever.weebly.com). You can read a sample of my debut work of fiction, a philsophical novella called 'Coming From Nothing' (Zero Books) [here](http://bit.ly/cfnextract). You can download and read *Before The Internet*, a book about 90s book culture I wrote [here](http://bit.ly/90sbook).
 
-At present, this page is just a repository for posts I wrote on medium.com in 2018. Most of them were reasonably popular on medium and some got shared quite widely on social media. I will add new material (and all of the 2018 posts) later.
+At present, this page is just a repository for posts I wrote on medium.com in 2018, about the topics listed below. Most of them were reasonably popular on medium and some got shared quite widely on social media. I will add new material (and all of the 2018 posts) later. Some of the links are broken and the conversation from medium to markdown is still a work in progress. Comments welcome: my email is on my academic website or you can tweet me.
 
 # Philosophy
 
