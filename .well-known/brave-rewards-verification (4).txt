@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mittmattmutt.github.io
+Token: 3b493f986d27f535d2f2be43f0aaf48178b0e4c06f0df812de7badfe255ed313
