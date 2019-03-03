@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
-Domain: gitub.io
+Domain: github.io
 Token: d6a9f3191e67f3d15ecb43b7272efbf871952cc8e29f06d0919eafbb64ee8061
