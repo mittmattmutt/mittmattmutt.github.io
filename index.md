@@ -2,6 +2,10 @@ This is the blog of Matthew McKeever ([@mittmattmutt](twitter.com/@mittmattmutt)
 
 At present, this page is just a repository for posts I wrote on medium.com in 2018, about the topics listed below. Most of them were reasonably popular on medium and some got shared quite widely on social media. I will add new material (and all of the 2018 posts) later. Some of the links are broken and the conversation from medium to markdown is still a work in progress. Comments welcome: my email is on my academic website or you can tweet me.
 
+# Most Recent
+
+[Review:"Chapo Guide To Revolution"](/chapo.md)
+
 # Philosophy
 
 
