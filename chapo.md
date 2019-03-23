@@ -258,5 +258,5 @@ So that’s my tentative assessment: the ironic politics, although funny and har
 to resist, occludes possibilities, as evidence for which I point out that it’s
 been around for a while during periods of political stagnation.
 
-**''**
+
 That somewhat negative assessment notwithstanding, I would still recommend and put this book into the hands of people interested in politics, comedy, or both, but I would do with a recommendation to actually spend some time thinking about what the future that follows the bleak history Chapo gives us might look like.
