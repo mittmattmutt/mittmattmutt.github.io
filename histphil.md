@@ -154,7 +154,7 @@ with innovation.
 
 To see this, consider the following diagram:
 
-![](https://github.com/mittmattmutt/mittmattmutt.github.io/blob/master/IMG-20190221-WA0003.jpg)
+![](https://github.com/mittmattmutt/mittmattmutt.github.io/blob/master/1_zlG3UYVC8JtI0d1wY8Dftg.png)
 <span class="figcaption_hack">An illustration of Kondratieff waves. I claim its peaks correspond to periods of
 metaphysical exuberance. (By Rursus — Own work, CC BY-SA 3.0,
 [https://commons.wikimedia.org/w/index.php?curid=7833300](https://commons.wikimedia.org/w/index.php?curid=7833300))</span>
