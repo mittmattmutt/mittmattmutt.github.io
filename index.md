@@ -7,6 +7,8 @@ This is the blog of Matthew McKeever ([@mittmattmutt](https://twitter.com/@mittm
 
 [Review:"Chapo Guide To Revolution"](/chapo.md)
 
+[The History Of Philosophy Without Any Philosophy](/histphil.md)
+
 # Philosophy
 
 
@@ -15,6 +17,8 @@ This is the blog of Matthew McKeever ([@mittmattmutt](https://twitter.com/@mittm
 [Contemporary Philosophy Introduced Through Descartes](/descartes.md)
 
 [Philosophy Of Language in 9 Sentences](/phillang9.md)
+
+[The History Of Philosophy Without Any Philosophy](/histphil.md)
 
 # Culture
 
