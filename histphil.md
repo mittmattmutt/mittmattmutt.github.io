@@ -152,12 +152,9 @@ Wittgenstein’s *Tractatus* (originally written in 1918) and Kripke’s Naming 
 Necessity lectures of 1970. You might think metaphysical speculation rises along
 with innovation.
 
-To see this, consider the following diagram:
+To see this, consider the following diagram for an illustration of Kontratiev waves:
 
-![](https://github.com/mittmattmutt/mittmattmutt.github.io/blob/master/1_zlG3UYVC8JtI0d1wY8Dftg.png)
-<span class="figcaption_hack">An illustration of Kondratieff waves. I claim its peaks correspond to periods of
-metaphysical exuberance. (By Rursus — Own work, CC BY-SA 3.0,
-[https://commons.wikimedia.org/w/index.php?curid=7833300](https://commons.wikimedia.org/w/index.php?curid=7833300))</span>
+![By Rursus — Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7833300](https://github.com/mittmattmutt/mittmattmutt.github.io/blob/master/1_zlG3UYVC8JtI0d1wY8Dftg.png)
 
 Its peaks and troughs, arguably, follow the peaks and troughs of the story of
 metaphysics as I presented it above, and suggest the following theory: periods
