@@ -8,10 +8,13 @@ Philosophy](https://plato.stanford.edu/) or even have a go at actual books and
 articles.
 
 My plan will be to look at the ‘credo’ of a particular recent school of
-philosophers. I do so not because the views defended by that school are
+philosophers. I do so *not* because the views defended by that school are
 universally accepted by analytic philosophers, but because the credo happens to
 use much of the terminology, and say something about many of the debates, that
-you need to understand contemporary analytic philosophy.
+you need to understand contemporary analytic philosophy. To see what analytic philosophers
+in general in fact believe, check out [the philpapers survey](https://philpapers.org/surveys/results.pl).
+You will see that the consensus is that there is no consensus, and that moreover analytic philosophy
+goes beyond the debates introduced below.
 
 The original document, written by the philosopher Daniel Nolan in 1996, can be
 found [here](https://sites.google.com/site/professordanielnolan/credo). I thank
