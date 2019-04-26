@@ -1,3 +1,7 @@
+---
+description: A description of some trends in recent analytic philosophy, mainly on metaphysics, including externalism, possible worlds, the correspondence theory of truth, and more.
+---
+
 # **Analytic Philosophy For Beginners**
 
 The aim of this post is to describe for the general reader some of the main
