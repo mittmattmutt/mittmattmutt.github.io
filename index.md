@@ -2,6 +2,7 @@ This is the blog of Matthew McKeever ([@mittmattmutt](https://twitter.com/@mittm
 
 
 # Most Recent
+[What Trends In Porn Can Teach Us About Life Today](/trendsinporn.md)
 
 [Analytic Philosophy For Beginners](/credo.md)
 
