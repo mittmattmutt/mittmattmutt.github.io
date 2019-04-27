@@ -27,7 +27,6 @@ This is the blog of Matthew McKeever ([@mittmattmutt](https://twitter.com/@mittm
 [Is Civilisation Furthered By Social Injustice?](/civ-furthered-social-injustice.md)
 
 [What Is Distinctive About the 2010s?](/distinctive.md)
-
 [Communicating On Social Media Is Weird--Why?](/social-media-weird.md)
 
 [What Language Do We Speak On Social Media?](/language-social-media.md)
