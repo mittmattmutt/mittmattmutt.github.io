@@ -9,6 +9,8 @@ This is the blog of Matthew McKeever ([@mittmattmutt](https://twitter.com/@mittm
 
 [The History Of Philosophy Without Any Philosophy](/histphil.md)
 
+[Free Speech, Costly Silence](/speechsilence.md)
+
 # Philosophy
 
 
