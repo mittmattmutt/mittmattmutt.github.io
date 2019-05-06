@@ -238,7 +238,7 @@ worker structure, it’s just changed forms or metastasized. And indeed maybe we
 have. But I need convinced — I need an argument that learning about party
 political back-and-forth in Bizmarckian Germany will help me fight against Uber.
 In this respect, I found the book lacking when compared with others in a similar
-space, such as Paul Mason’s* Postcapitalism*, or Eric Posner and Glen Weyl’s
+space, such as Paul Mason’s *Postcapitalism*, or Eric Posner and Glen Weyl’s
 *Radical Markets*. Both of these books address inequality (from notably
 differing perspectives, Marxist vs mainstream(ish) economics), both of these
 look askance at private property, but both also attend to, for example, the
